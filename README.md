@@ -1,1 +1,1 @@
-# nome do diretorio
+# nomedodiretorio
